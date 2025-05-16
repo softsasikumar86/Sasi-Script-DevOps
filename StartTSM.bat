@@ -6,3 +6,4 @@ SET PATH=C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;%TAFJ_HOM
 more STOPTSM.ofs  | tRun tSS GCS >log.txt 2>> output.err
 cat STOPTSM.ofs >>log1.txt
 cat log.txt >>log1.txt 
+cat log1.txt
